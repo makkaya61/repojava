@@ -1,6 +1,7 @@
 /**
  * This is a simple HelloWorld class that prints "Hello World!" to the console.
- * It demonstrates basic Java syntax and includes Javadoc comments for documentation.
+ * It demonstrates basic Java syntax and includes Javadoc comments for
+ * documentation.
  */
 public class HelloWorld {
 
@@ -17,7 +18,7 @@ public class HelloWorld {
    * @param args Command-line arguments (not used in this example).
    */
   public static void main(String[] args) {
-      // Print "Hello World!" to the console
-      System.out.println("Hello World!");
+    // Print "Hello World!" to the console
+    System.out.println("Hello World!");
   }
 }
